@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{CD53B801-4410-4486-8643-6458B4462EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{CD53B801-4410-4486-8643-6458B4462EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{EA095F48-8391-4D6D-9E53-F523168C9834}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CD53B801-4410-4486-8643-6458B4462EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD53B801-4410-4486-8643-6458B4462EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD53B801-4410-4486-8643-6458B4462EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA095F48-8391-4D6D-9E53-F523168C9834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA095F48-8391-4D6D-9E53-F523168C9834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA095F48-8391-4D6D-9E53-F523168C9834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA095F48-8391-4D6D-9E53-F523168C9834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
